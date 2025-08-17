@@ -1,7 +1,7 @@
 | Jour/Date | Heure       | Type        | Enseignant | Contenu |
 |-----------|-------------|-------------|------------|------------|
 | W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro |
-| W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervise |
+| W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised |
 | W 24 Sep   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 1 |
 | W 24 Sep   | 14h-17h     | CM+TP          | Elia       | Network 1 |
 | W 01 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 2 |
