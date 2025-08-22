@@ -10,10 +10,10 @@ L'UE est divisé en 3 grandes parties:
 # Programme
 | Jour/Date | Heure       | Type        | Enseignant | Contenu |
 |-----------|-------------|-------------|------------|------------|
-| L 22/09   | 8h-11h15     | CM+TP          | Rémy       | ML rappels |
-| L 29/09   | 8h-11h15     | CM+TP          | Rémy       | Bootstrap, evaluation |
-| L 17/11   | 8h-11h15     | CM+TP          | Rémy      | XGboost & Co |
-| L 24/11   | 9h45-11h15   | CM+TP          | Louis     | deep - intro |
+| L 22/09   | 9h45-13h     | CM+TP          | Rémy       | ML rappels |
+| L 29/09   | 9h45-13h     | CM+TP          | Rémy       | Bootstrap, evaluation |
+| L 17/11   | 9h45-13h     | CM+TP          | Rémy      | XGboost & Co |
+| L 24/11   | 9h45-13h   | CM+TP          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
 | V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - étique |
 | L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops |
