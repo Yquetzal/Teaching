@@ -1,15 +1,13 @@
 
 This is the page of the Machine Learning class of DISS International Master at Lyon 1 University, for the academic year **year 2025/2026**
 
-
------
-## Room / Schedule
-
-Please refer to the official Week Schedule there: https://adelb.univ-lyon1.fr/
-
 -----
 
-## Program, classes and content
+### Program, classes, and content
+
+#### Room / Schedule
+
+For rooms and other details, please refer to the official Week Schedule there: https://adelb.univ-lyon1.fr/
 
 Below is an overview of the courses and practicals.
 As the classes are done, I'll add my presentation slides, some notebooks, etc.
