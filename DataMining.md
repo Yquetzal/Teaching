@@ -17,11 +17,11 @@ Les contenus seront mis à jour au fur et à mesure.
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
-| W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro |
-| W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised |
-| W 24 Sep   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 1 |
-| W 24 Sep   | 14h-17h     | CM+TP          | Elia       | Network 1 |
-| W 01 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 2 |
+| Lundi 8 Sep   | 9h-13h00     | CM+TP          | Rémy       | Rappels Stat/Data |
+| Mardi 9 Sep   | 9h-13h00     | CM+TP          | Rémy       | Clustering avancé |
+| Lundi 15 Sep  | 8h-13h00     | CM+TP          | Rémy       | ML supervised 1 |
+| Mardi 16 Sep   | 8h-13h00     | CM+TP          | Rémy       | Network 1 |
+| Lundi 6 Octobre   | 8h-13h00     | CM+TP          | Rémy       | ML supervised 2 |
 | W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 |
 | W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 3 |
 | W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Network 3 |
