@@ -19,24 +19,13 @@ Les contenus seront mis à jour au fur et à mesure.
 |-----------|-------------|-------------|------------|------------|
 | Lundi 8 Sep   | 9h-13h00     | CM+TP          | Rémy       | Rappels Stat/Data |
 | Mardi 9 Sep   | 9h-13h00     | CM+TP          | Rémy       | Clustering avancé |
-| Lundi 15 Sep  | 8h-13h00     | CM+TP          | Rémy       | ML supervised 1 |
-| Mardi 16 Sep   | 8h-13h00     | CM+TP          | Rémy       | Network 1 |
-| Lundi 6 Octobre   | 8h-13h00     | CM+TP          | Rémy       | ML supervised 2 |
-| W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 |
-| W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 3 |
-| W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Network 3 |
-| W 15 Oct   | 9h45-13h00     | CM          | Timon       | Intro deep 1 |
-| W 22 Oct   | 9h45-13h00     | CM+TP          | Timon       | Intro deep 2  |
-| W 29 Oct   | --     | --         | --      | ... |
-| W 05 Nov   | 9h45-13h00     | TP          | Timon       | Intro deep TP |
-| W 12 Nov   | 9h45-13h00     | TP          | Timon       | Intro deep TP |
-| W 19 Nov   | 9h45-13h00     | CM+TP          | Bruno       | ML |
-| W 19 Nov   | 14h-17h      | CM+TP          | Bruno       | LLM |
-| W 26 Nov   | 9h45-13h00     | CM+TP          | Bruno       | LLM |
-| W 26 Nov   | 14h-17h     | CM+TP          | Bruno       | LLM |
-| W 03 Dec   | 9h45-13h00     | CM+TP          | Rémy       | ... |
-| W 10 Dec   | 9h45-13h00     | CM+TP          | Rémy       | ... |
-| W 17 Dec   | 9h45-13h00     | EXAM          |        | ... |
+| Lundi 15 Sep  | 8h-13h00     | CM+TP          | Rémy       | Networks 1 |
+| Mardi 16 Sep   | 8h-13h00     | CM+TP          | Rémy       | Networks 2 |
+| Lundi 6 Octobre   | 8h-13h00     | CM+TP          | Rémy       |  |
+| Mardi 7 Octobre   | 8h-13h00      | CM+TP          | Rémy       | |
+| Lundi 13 Octobre   | 8h-13h00     | CM+TP          | Rémy       | |
+| Mardi 14 Octobre   | 8h-13h00      | CM+TP          | Rémy       | |
+| Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy       | Voir détails ci-dessous |
 
 
 -----
