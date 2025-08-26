@@ -1,5 +1,5 @@
 
-This is the page of the Machine Learning class of DISS International Master at Lyon 1 University, for the academic year **year 2025/2026**
+Ceci est la page du cours de Data Mining pour les M2 IA et Data Science, université Lyon 1, pour l'année académique **2025/2026**
 
 -----
 
@@ -7,11 +7,13 @@ This is the page of the Machine Learning class of DISS International Master at L
 
 **Room / Schedule** 
 
-For rooms and other details, please refer to the official Week Schedule there: https://adelb.univ-lyon1.fr/
+Vous pouvez retrouver le détail des horaires et des salles là : https://adelb.univ-lyon1.fr/
+Les cours ont lieu par défaut le mardi matin, mais avec de nombreuses exception. Se reporter au calendrier détaillé ci-dessous pour les détails. Les chargées de TP seront ...
 
-Below is an overview of the courses and practicals.
-As the classes are done, I'll add my presentation slides, some notebooks, etc.
-This organization can be subject to changes !.
+----
+
+Ci-dessous, une vue générale des cours du semestre. Il s'agit d'un programme provisoire qui sera amené à évoluer.
+Les contenus seront mis à jour au fur et à mesure.
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
@@ -41,11 +43,9 @@ This organization can be subject to changes !.
 
 ## Exam
 
-Coefficients
-* CT - final exam: 50%
-* Presentation: 10%
-* Project Timon: 20%
-* Project Bruno Yun: 20%
+### Projet
 
-#### Final exam
-Final exam will take place on December 17, with questions on all parts of the class by all teachers.
+### Examen final 
+Pour l'examen final: Je n'attends pas de vous de savoir par cœur les équations des différentes méthodes, ou de savoir appliquer des méthodes que nous n'avons pas appliqué en TP. J'attends de vous de savoir quelles sont les différentes méthodes que j'ai présenté, et, dans les grandes lignes, leur fonctionnement et leurs différences. Vous aurez le droit aux documents papier durant l'examen. 
+* Annale de 2022 avec éléments de correction (https://cazabetremy.fr/Teaching/DSIA/2022/Exam_corr.pdf)
+* Annale de 2023 avec éléments de correction (https://cazabetremy.fr/Teaching/DSIA/Exams2023.pdf)
