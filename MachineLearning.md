@@ -1,4 +1,5 @@
-## Introduction
+
+## Machine Learning Techniques and Applications - M2 DISS - 2025/2026
 
 This is the page of the Machine Learning class of DISS International Master at Lyon 1 University.
 
@@ -37,3 +38,17 @@ This organization can be subject to changes !.
 | W 03 Dec   | 9h45-13h00     | CM+TP          | Rémy       | ... |
 | W 10 Dec   | 9h45-13h00     | CM+TP          | Rémy       | ... |
 | W 17 Dec   | 9h45-13h00     | EXAM          |        | ... |
+
+
+-----
+
+## Exam
+
+Coefficients
+* CT - final exam: 50%
+* Presentation: 10%
+* Project Timon: 20%
+* Project Bruno Yun: 20%
+
+#### Final exam
+Final exam will take place on December 17, with questions on all parts of the class by all teachers.
