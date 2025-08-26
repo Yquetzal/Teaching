@@ -1,7 +1,6 @@
 
-## Machine Learning Techniques and Applications - M2 DISS - 2025/2026
+This is the page of the Machine Learning class of DISS International Master at Lyon 1 University, for the academic year **year 2025/2026**
 
-This is the page of the Machine Learning class of DISS International Master at Lyon 1 University.
 
 -----
 ## Room / Schedule
