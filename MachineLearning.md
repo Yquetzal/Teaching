@@ -1,10 +1,13 @@
-Introduction
+## Introduction
+
 This is the page of the Machine Learning class of DISS International Master at Lyon 1 University.
 
 -----
 ## Room / Schedule
 
 Please refer to the Week Schedule there: https://adelb.univ-lyon1.fr/
+
+-----
 
 ## Program, classes and content
 
