@@ -5,7 +5,7 @@ This is the page of the Machine Learning class of DISS International Master at L
 
 ### Program, classes, and content
 
-#### Room / Schedule
+**Room / Schedule** 
 
 For rooms and other details, please refer to the official Week Schedule there: https://adelb.univ-lyon1.fr/
 
