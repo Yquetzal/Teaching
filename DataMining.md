@@ -17,10 +17,10 @@ Les contenus seront mis à jour au fur et à mesure.
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
-| Lundi 8 Sep   | 9h-13h00     | CM+TP          | Rémy       | Rappels Stat/Data |
-| Mardi 9 Sep   | 9h-13h00     | CM+TP          | Rémy       | Clustering avancé |
-| Lundi 15 Sep  | 8h-13h00     | CM+TP          | Rémy       | Networks 1 |
-| Mardi 16 Sep   | 8h-13h00     | CM+TP          | Rémy       | Networks 2 |
+| Lundi 8 Sep   | 9h45-13h00     | CM+TP          | Rémy       | Rappels Stat/Data |
+| Mardi 9 Sep   | 9h45-13h00     | CM+TP          | Rémy       | Clustering avancé |
+| Lundi 15 Sep  | 9h45-13h00     | CM+TP          | Rémy       | Networks 1 |
+| Mardi 16 Sep   | 9h45-13h00     | CM+TP          | Rémy       | Networks 2 |
 | Lundi 6 Octobre   | 8h-13h00     | CM+TP          | Rémy       |  |
 | Mardi 7 Octobre   | 8h-13h00      | CM+TP          | Rémy       | |
 | Lundi 13 Octobre   | 8h-13h00     | CM+TP          | Rémy       | |
