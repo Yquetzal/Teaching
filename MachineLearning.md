@@ -1,4 +1,18 @@
-| Jour/Date | Heure       | Type        | Enseignant | Contenu |
+Introduction
+This is the page of the Machine Learning class of DISS International Master at Lyon 1 University.
+
+-----
+## Room / Schedule
+
+Please refer to the Week Schedule there: https://adelb.univ-lyon1.fr/
+
+## Program, classes and content
+
+Below is an overview of the courses and practicals.
+As the classes are done, I'll add my presentation slides, some notebooks, etc.
+This organization can be subject to changes !.
+
+| Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
 | W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro |
 | W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised |
