@@ -35,7 +35,7 @@ Les contenus seront mis à jour au fur et à mesure.
 ### Projet
 * Pour faire le projet, vous pouvez vous mettre par groupe de 2 ou 3. **Vous devez clairement indiquer qui a travaillé sur quelle partie**. Les notes pourront être individualisées.
 * L'objectif du projet est de prendre un jeu de données réel, et de l'analyser en utilisant une technique vu en cours.
-* Je fournirai quelques jeux de données adaptés.
+* C'est moi qui proposerait quelques jeux de données adaptés.
 * Le rendu est composé de deux éléments:
   * Le code. Peut être sous forme de notebook, de fichiers .py, ou une combinaison des deux.
   * Un document PDF de type rapport, qui doit viser à être de qualité professionnelle (Rapport d'entreprise ou article scientifique). 3000 mots maximum. Le rapport doit être très soigné. Il doit décrire les données, et présenter une analyse claire et pertinente. 
