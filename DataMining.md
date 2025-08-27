@@ -3,12 +3,12 @@ Ceci est la page du cours de Data Mining pour les M2 IA et Data Science, univers
 
 -----
 
-### Program, classes, and content
+### Programme et contenus
 
-**Room / Schedule** 
+**Salles** 
 
 Vous pouvez retrouver le détail des horaires et des salles là : https://adelb.univ-lyon1.fr/
-Les cours ont lieu par défaut le mardi matin, mais avec de nombreuses exception. Se reporter au calendrier détaillé ci-dessous pour les détails. Les chargées de TP seront ...
+Les cours ont lieu les Lundi et Mardi matin. Se reporter au calendrier détaillé ci-dessous pour les détails. Les chargées de TP seront Maeva Somny & Chloé Conrad
 
 ----
 
