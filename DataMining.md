@@ -21,10 +21,10 @@ Les contenus seront mis à jour au fur et à mesure.
 | Mardi 9 Sep   | 9h45-13h00     | CM+TP          | Rémy       | Clustering avancé |
 | Lundi 15 Sep  | 9h45-13h00     | CM+TP          | Rémy       | Networks 1 |
 | Mardi 16 Sep   | 9h45-13h00     | CM+TP          | Rémy       | Networks 2 |
-| Lundi 6 Octobre   | 8h-13h00     | CM+TP          | Rémy       |  |
-| Mardi 7 Octobre   | 8h-13h00      | CM+TP          | Rémy       | |
-| Lundi 13 Octobre   | 8h-13h00     | CM+TP          | Rémy       | |
-| Mardi 14 Octobre   | 8h-13h00      | CM+TP          | Rémy       | |
+| Lundi 6 Octobre   | 8h-13h00     | Projet+CM+TP          | Rémy       |  |
+| Mardi 7 Octobre   | 8h-13h00      | Projet+CM+TP          | Rémy       | |
+| Lundi 13 Octobre   | 8h-13h00     | Projet+CM+TP          | Rémy       | |
+| Mardi 14 Octobre   | 8h-13h00      | Projet+CM+TP          | Rémy       | |
 | Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy       | Voir détails ci-dessous |
 
 
