@@ -19,12 +19,12 @@ Les contenus seront mis à jour au fur et à mesure.
 |-----------|-------------|-------------|------------|------------|
 | Lundi 8 Sep   | 11h30-13h00     | CM          | Rémy       | Rappels Stat/Data |
 | Mardi 9 Sep   | 11h30-13h00     | CM          | Rémy       | Clustering avancé |
-| Lundi 15 Sep  | 8h45-13h00     | CM+TP          | Rémy       | Representation learning |
-| Mardi 16 Sep   | 8h45-13h00     | CM+TP          | Rémy       | Networks 1 |
-| Lundi 6 Octobre   | 8h-13h00     | Projet+CM+TP          | Rémy       | Networks 2 |
-| Mardi 7 Octobre   | 8h-13h00      | Projet+CM+TP          | Rémy       | Frequent Patterns  |
-| Lundi 13 Octobre   | 8h-13h00     | Projet+CM+TP          | Rémy       | Spatial and Temporal  |
-| Mardi 14 Octobre   | 8h-13h00      | Projet+CM+TP          | Rémy       | Explainable ML |
+| Lundi 15 Sep  | 8h00-13h00     | CM+TP          | Rémy       | Representation learning |
+| Mardi 16 Sep   | 8h00-13h00     | CM+TP          | Rémy       | Networks 1 |
+| Lundi 6 Octobre   | 8h00-13h00     | Projet+CM+TP          | Rémy       | Networks 2 |
+| Mardi 7 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy       | Frequent Patterns  |
+| Lundi 13 Octobre   | 8h00-13h00     | Projet+CM+TP          | Rémy       | Spatial and Temporal  |
+| Mardi 14 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy       | Explainable ML |
 | Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy       | Voir détails ci-dessous |
 
 
