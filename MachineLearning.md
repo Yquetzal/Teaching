@@ -43,8 +43,9 @@ This organization can be subject to changes !.
 ### Data Description
 * [Caffeine Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/coffee_effects.csv) (Synthetic)
 * [Car Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synthetic.csv) (Synthetic)
------
 
+
+-----
 ## Exam
 
 Coefficients
