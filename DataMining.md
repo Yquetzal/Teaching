@@ -19,13 +19,13 @@ Les contenus seront mis à jour au fur et à mesure.
 |-----------|-------------|-------------|------------|------------|
 | Lundi 8 Sep   | 11h30-13h00     | CM          | Rémy       | Rappels,Stat/Data ([Slides](https://cazabetremy.fr/Teaching/DSIA/2025/DM-DataIntro.pdf), [Notes](https://cazabetremy.fr/Teaching/DSIA/2025/SupportDataIntro.pdf)) |
 | Mardi 9 Sep   | 11h30-13h00     | CM          | Rémy       | Clustering avancé ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Clustering.pdf),Notes) |
-| Lundi 15 Sep  | 8h00-13h00     | TP+CM          | Rémy       | [TP1](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_DataDescription.pdf) - Representation learning |
-| Mardi 16 Sep   | 8h00-13h00     | TP+CM+TP          | Rémy       | Networks 1 |
-| Lundi 6 Octobre   | 8h00-13h00     | Projet+TP+CM          | Rémy       | Networks 2 |
-| Mardi 7 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy       | Frequent Patterns  |
-| Lundi 13 Octobre   | 8h00-13h00     | Projet+CM+TP          | Rémy       | Spatial and Temporal  |
-| Mardi 14 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy       | Explainable ML |
-| Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy       | Voir détails ci-dessous |
+| Lundi 15 Sep  | 8h00-13h00     | TP+CM          | Rémy, Chloe, Maeva       | [TP1](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_DataDescription.pdf) - Representation learning |
+| Mardi 16 Sep   | 8h00-13h00     | TP+CM+TP          | Rémy, Chloe, Maeva        | Networks 1 |
+| Lundi 6 Octobre   | 8h00-13h00     | Projet+TP+CM          | Rémy, Chloe, Maeva        | Networks 2 |
+| Mardi 7 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy, Chloe, Maeva        | Frequent Patterns  |
+| Lundi 13 Octobre   | 8h00-13h00     | Projet+CM+TP          | Rémy, Chloe, Maeva        | Spatial and Temporal  |
+| Mardi 14 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy, Chloe, Maeva        | Explainable ML |
+| Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy, Chloe, Maeva        | Voir détails ci-dessous |
 
 -----
 ## DATA
