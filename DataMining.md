@@ -17,7 +17,7 @@ Les contenus seront mis à jour au fur et à mesure.
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
-| Lundi 8 Sep   | 11h30-13h00     | CM          | Rémy       | Rappels Stat/Data [Slides](https://cazabetremy.fr/Teaching/DSIA/2025/DM-DataIntro.pdf) [Lecture](https://cazabetremy.fr/Teaching/DSIA/2025/SupportDataIntro.pdf) |
+| Lundi 8 Sep   | 11h30-13h00     | CM          | Rémy       | Rappels,Stat/Data - [Slides](https://cazabetremy.fr/Teaching/DSIA/2025/DM-DataIntro.pdf)  - [Lecture](https://cazabetremy.fr/Teaching/DSIA/2025/SupportDataIntro.pdf) |
 | Mardi 9 Sep   | 11h30-13h00     | CM          | Rémy       | Clustering avancé |
 | Lundi 15 Sep  | 8h00-13h00     | CM+TP          | Rémy       | Representation learning |
 | Mardi 16 Sep   | 8h00-13h00     | CM+TP          | Rémy       | Networks 1 |
