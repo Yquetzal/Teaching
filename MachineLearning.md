@@ -15,7 +15,7 @@ This organization can be subject to changes !.
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
-| W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro ([Slides](https://cazabetremy.fr/Teaching/DISS/2025/Data%20-%20Introduction.pdf), [Notes](https://cazabetremy.fr/Teaching/data_class/LectureNotes/DataDescription.pdf), [TP](https://cazabetremy.fr/Teaching/data_class/2025/TP_DataDescription.pdf)|
+| W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro ([Slides](https://cazabetremy.fr/Teaching/DISS/2025/Data%20-%20Introduction.pdf), [Notes](https://cazabetremy.fr/Teaching/data_class/LectureNotes/DataDescription.pdf), [TP](https://cazabetremy.fr/Teaching/data_class/2025/TP_DataDescription.pdf))|
 | W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised |
 | W 24 Sep   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 1 |
 | W 24 Sep   | 14h-17h     | CM+TP          | Elia       | Network 1 |
@@ -37,7 +37,12 @@ This organization can be subject to changes !.
 | W 10 Dec   | 9h45-13h00     | CM+TP          | Louis       | ... |
 | W 17 Dec   | 9h45-13h00     | EXAM          |        | ... |
 
+-----
+## DATA
 
+### Data Description
+* [Caffeine Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/coffee_effects.csv) (Synthetic)
+* [Car Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synthetic.csv) (Synthetic)
 -----
 
 ## Exam
