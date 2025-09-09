@@ -53,6 +53,7 @@ Les contenus seront mis à jour au fur et à mesure.
   * Clustering,
   * Dimensionality reduction,
   * Networks
+  
   L'objectif est de ne pas simplement appliquer la méthode, mais de creuser comment l'appliquer au mieux: transformations des données, variantes des méthodes, paramètres...
 * Vous pouvez compléter l'analyse avec d'autres aspects du cours.
 * Il est important de fournir une **analyse** a partir des résultats que vous avez obtenus. 
