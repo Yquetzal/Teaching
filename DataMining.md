@@ -46,7 +46,7 @@ Les contenus seront mis à jour au fur et à mesure.
 * <a href="http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml" download="airportsAndCoord.graphml">Airport Network</a>
 
 -------
-## Exam
+## Exams
 
 ### Projet
 * Pour faire le projet, vous pouvez vous mettre par groupe de 2 ou 3. **Vous devez clairement indiquer qui a travaillé sur quelle partie**. Les notes pourront être individualisées.
