@@ -41,8 +41,9 @@ Les contenus seront mis à jour au fur et à mesure.
 ### Dimensionality Reduction
 * [Movie User Ratings](https://cazabetremy.fr/Teaching/data_class/Datasets/ratings_clean_names.csv)
 ### Network 1
-* [small network GOT](http://cazabetremy.fr/Teaching/CN2021/dataset/GOT.graphml)
-* [Airport Network](http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml)
+
+* <a href="http://cazabetremy.fr/Teaching/CN2021/dataset/GOT.graphml" download="GOT.graphml">small network GOT</a>
+* <a href="http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml" download="airportsAndCoord.graphml">Airport Network</a>
 
 -------
 ## Exam
