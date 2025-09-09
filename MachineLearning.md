@@ -32,10 +32,10 @@ This organization can be subject to changes !.
 | W 19 Nov   | 14h-17h      | CM+TP          | Bruno       | LLM |
 | W 26 Nov   | 9h45-13h00     | CM+TP          | Bruno       | LLM |
 | W 26 Nov   | 14h-17h     | CM+TP          | Bruno       | LLM |
-| W 03 Dec   | 9h45-13h00     | CM+TP          | Louis       | ... |
-| W 03 Dec   | 14h-17h     | CM+TP          | Louis       | ... |
-| W 10 Dec   | 9h45-13h00     | CM+TP          | Louis       | ... |
-| W 17 Dec   | 9h45-13h00     | EXAM          |        | ... |
+| W 03 Dec   | 9h45-13h00     | CM+TP          | Louis       | Deep Learning advanced |
+| W 03 Dec   | 14h-17h     | CM+TP          | Louis       | Deep Learning advanced |
+| W 10 Dec   | 9h45-13h00     | CM+TP          | Louis       | Deep Learning advanced |
+| W 17 Dec   | 9h45-13h00     | EXAM          |        |  |
 
 -----
 ## DATA
