@@ -31,10 +31,12 @@ Les contenus seront mis à jour au fur et à mesure.
 ## DATA
 
 ### Data Description
+
 * [Caffeine Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/coffee_effects.csv) (Synthetic)
 * [Car Dataset](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synthetic.csv) (Synthetic)
 
 ### Clustering
+
 * [Fruits](https://cazabetremy.fr/Teaching/data_class/Datasets/fruits_all.zip)
 * [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv) (Synthetic)
 
@@ -42,11 +44,11 @@ Les contenus seront mis à jour au fur et à mesure.
 * [Movie User Ratings](https://cazabetremy.fr/Teaching/data_class/Datasets/ratings_clean_names.csv)
 ### Network 1
 
-* <a href="http://cazabetremy.fr/Teaching/CN2021/dataset/GOT.graphml" download="GOT.graphml">small network GOT</a>
-* <a href="http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml" download="airportsAndCoord.graphml">Airport Network</a>
+* <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/GOT.graphml.zip">small network GOT</a>
+* <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/airportsAndCoord.graphml.zip">Airport Network</a>
 
 -------
-## Exams
+## Évaluation
 
 ### Projet
 * Pour faire le projet, vous pouvez vous mettre par groupe de 2 ou 3. **Vous devez clairement indiquer qui a travaillé sur quelle partie**. Les notes pourront être individualisées.
