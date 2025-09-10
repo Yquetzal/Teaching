@@ -3,6 +3,17 @@ This is the page of the Machine Learning class of DISS International Master at L
 
 -----
 
+### Teachers
+Lecturers : 
+* Rémy Cazabet (remy.cazabet@univ-lyon1.fr)
+* Elia Altimani
+* Timon Deschamps
+* Bruno Yun
+* Louis Bagot
+
+**Teaching Assistant**
+* Louis Bagot (louis.bagot@univ-lyon1.fr)
+
 ### Program, classes, and content
 
 **Room / Schedule** 
@@ -12,6 +23,7 @@ For rooms and other details, please refer to the official Week Schedule there: h
 Below is an overview of the courses and practicals.
 As the classes are done, I'll add my presentation slides, some notebooks, etc.
 This organization can be subject to changes !.
+
 
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
