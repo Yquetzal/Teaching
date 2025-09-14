@@ -28,13 +28,13 @@ This organization can be subject to changes !.
 | Date | Time       | Type        | Teachers | Content |
 |-----------|-------------|-------------|------------|------------|
 | W 10 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML intro ([Slides](https://cazabetremy.fr/Teaching/DISS/2025/Data%20-%20Introduction.pdf), [Notes](https://cazabetremy.fr/Teaching/data_class/LectureNotes/DataDescription.pdf), [TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_DataDescription.pdf))|
-| W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised |
+| W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised + articles|
 | W 24 Sep   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 1 |
 | W 24 Sep   | 14h-17h     | CM+TP          | Elia       | Network 1 |
 | W 01 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 2 |
 | W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 |
-| W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 3 |
-| W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Network 3 |
+| W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | Articles presentation |
+| W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Articles presentation |
 | W 15 Oct   | 9h45-13h00     | CM          | Timon       | Intro deep 1 |
 | W 22 Oct   | 9h45-13h00     | CM+TP          | Timon       | Intro deep 2  |
 | W 29 Oct   | --     | --         | --      | ... |
