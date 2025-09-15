@@ -17,8 +17,8 @@ L'UE est divisé en 3 grandes parties:
 | L 24/11   | 9h45-13h   | CM+TP          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
 | V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - étique |
-| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (méthodes, amont) |
-| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (déploiement, mise en production, Dash)|
+| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (amont: méthodes, apprentissage, etc.) |
+| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash)|
 | L 19/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
 | J 22/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
 
