@@ -17,8 +17,8 @@ L'UE est divisé en 3 grandes parties:
 | L 24/11   | 9h45-13h   | CM+TP          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
 | V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - étique |
-| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops |
-| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops |
+| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (méthodes, amont) |
+| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (déploiement, mise en production, Dash)|
 | L 19/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
 | J 22/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
 
@@ -26,3 +26,18 @@ L'UE est divisé en 3 grandes parties:
 ----
 # Examen
 L'évaluation se fait par un projet et un examen final écrit.
+
+----
+# details partie MLops:
+Ce premier cours introduira les objectifs et les méthodes du MLOps : techniques à la croisée en l’ingénierie logiciel et l'apprentissage automatique. Ces techniques permettent d'exploiter au mieux les ressources (données et calcul) pour aller vers une industrialisation d'un service basé sur du machine learning. 
+Les objectifs seront :
+1) de connaitre ce qui motive la mise en place d'une démarche de MLOps (notamment la différence entre la construction d'un modèle jouet, vs un modèle déployé pour une utilisation large). 
+2) de comprendre les différentes étapes de la démarche d'une mise en place
+3) d'identifier des outils qui permettent d'accompagner ces étapes.
+
+Un focus sera donné sur la partie amont de la conception d'un modèle de machine learning, ie. son apprentissage. Un focus sera fait sur la sélection de modèle avec l'introduction des outils tels que MLFlow et Ray Tune qui permettent d'accompagner l'exploration de modèles. L'objectif de cette partie pratique sera de savoir mettre en place un procédure d'exploration des hyperparamètres d'un modèle et de savoir choisir celui qui a les meilleurs performances.
+
+2) Dans ce cours, on s'intéressera plus à la phase aval de la conception d'un outil de machine learning, c'est à dire son déploiement et sa mise en production.
+Nous introduirons dans ce cours quelques contraintes liées à la mise en production d'un modèle de machine learning. Nous nous intéresserons aussi à la surveillance des dérives d'un modèle en production.
+Les objectifs de cette partie théorique seront de pouvoir mener des réflexions, en amont de la conception d'un modèle de machine learning pour sa conception.
+D'un point de vue pratique, nous illustrerons l'utilisation de Dash comme exemple pratique pour le déploiement d'un modèle par une interface en ligne.
