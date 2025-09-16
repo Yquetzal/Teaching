@@ -23,9 +23,17 @@ L'UE est divisé en 3 grandes parties:
 | J 22/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
 
 
+
+----
+# Données
+### Machine Learning 1
+
+* [cars_synth_clean.csv](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv)
+
 ----
 # Examen
 L'évaluation se fait par un projet et un examen final écrit.
+
 
 ----
 # Details partie MLops:
