@@ -61,6 +61,46 @@ This organization can be subject to changes !.
 * [Fruits](https://cazabetremy.fr/Teaching/data_class/Datasets/fruits_all.zip)
 * [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv) (Synthetic)
 
+-----
+
+## Article presentation
+
+### Notes on the article presentation
+
+- **Presentation duration: 25 minutes: 15 minutes presentation, 10 minutes questions. (respecting it is part of the grade)**
+- **Select Key Information:** Focus on the most important points of your article. Don't include everything; choose what's most relevant to your audience.
+- **Charts and Tables:** When presenting a chart or table, ensure you:
+  - Highlight the main takeaways.
+  - Direct the audience's attention to significant data points.
+  - Provide a brief explanation to set the context.
+- **Questions:** Anticipate and address the most significant or likely question your audience might have about your article.
+- **Keep Slides Clear:**  
+  - Avoid using complete sentences; use bullet points or short phrases instead.  
+  - Ensure slides are readable and not crowded with text.
+- **Number your slides:** This allows questions to be asked more easily.
+- **Presentation Length:** Aim for approximately 15 slides for a 15-minutes presentation. This keeps your content paced well and prevents rushing.
+- **Quality over Quantity:** Focus on presenting high-quality, relevant information rather than trying to include everything.
+- **Address Uncertainties:** If there's something in the article you don't understand, be transparent about it. This can lead to productive discussions.
+- **Originality:**  
+  - Avoid copying entire slides from online sources; always create your own content.  
+  - Use your own figures, diagrams, and visuals whenever possible. Else, cite the source.
+- **Storytelling:** Frame your presentation as a narrative or story. This helps engage your audience and make complex information more accessible.
+- **Pacing:** Speak clearly and at a moderate pace. Speaking too quickly can make it difficult for your audience to follow along.
+- **Reading:** Do not read! Neither the slides nor a written text. You can use notes if it helps, but only for quick glances.
+- **Relevance of Plots:** Only include plots or graphs if there's sufficient time to explain them. If the audience can't understand a plot's relevance, it's best to leave it out.
+
+---
+
+## Proposed articles
+
+- Karczmarek, P., Kiersztyn, A., Pedrycz, W., & Al, E. (2020). *K-Means-based isolation forest*. Knowledge-based systems, 195, 105659.
+- Carreira-Perpinán, M. A. (2015). *A review of mean-shift algorithms for clustering*. arXiv preprint arXiv:1503.00687.
+- Ankerst, M., Breunig, M. M., Kriegel, H. P., & Sander, J. (1999). *OPTICS: Ordering points to identify the clustering structure*. ACM Sigmod record, 28(2), 49-60.
+- Bandyapadhyay, S., Fomin, F. V., Golovach, P. A., Lochet, W., Purohit, N., & Simonov, K. (2023). *How to find a good explanation for clustering?*. Artificial Intelligence, 322, 103948.
+- He, X., Zhao, K., & Chu, X. (2021). *AutoML: A survey of the state-of-the-art*. Knowledge-Based Systems, 212, 106622.
+- Ran, X., Zhou, X., Lei, M., Tepsan, W., & Deng, W. (2021). *A novel k-means clustering algorithm with a noise algorithm for capturing urban hotspots*. Applied Sciences, 11(23), 11202.
+- Zafar, M. B., Valera, I., Rogriguez, M. G., & Gummadi, K. P. (2017, April). *Fairness constraints: Mechanisms for fair classification*. In Artificial intelligence and statistics (pp. 962-970). PMLR.
+
 
 -----
 ## Exam
