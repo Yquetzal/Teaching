@@ -100,6 +100,20 @@ This organization can be subject to changes !.
 - He, X., Zhao, K., & Chu, X. (2021). *AutoML: A survey of the state-of-the-art*. Knowledge-Based Systems, 212, 106622.
 - Ran, X., Zhou, X., Lei, M., Tepsan, W., & Deng, W. (2021). *A novel k-means clustering algorithm with a noise algorithm for capturing urban hotspots*. Applied Sciences, 11(23), 11202.
 - Zafar, M. B., Valera, I., Rogriguez, M. G., & Gummadi, K. P. (2017, April). *Fairness constraints: Mechanisms for fair classification*. In Artificial intelligence and statistics (pp. 962-970). PMLR.
+- Arthur, D., & Vassilvitskii, S. (2007). *k-means++: The advantages of careful seeding.* Proceedings of the 18th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 1027–1035.  
+- Frey, B. J., & Dueck, D. (2007). *Clustering by passing messages between data points.* *Science*, 315(5814), 972–976. (Affinity Propagation)  
+- Comaniciu, D., & Meer, P. (2002). *Mean shift: A robust approach toward feature space analysis.* *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 24(5), 603–619.  
+- Ertöz, L., Steinbach, M., & Kumar, V. (2003). *Finding clusters of different sizes, shapes, and densities.* Proceedings of the 2003 SIAM International Conference on Data Mining (SDM), 47–58. (Shared Nearest Neighbor clustering)  
+- Campello, R. J. G. B., Moulavi, D., & Sander, J. (2013). *Density-Based Clustering Based on Hierarchical Density Estimates.* Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 160–172. (HDBSCAN)  
+- Breunig, M. M., Kriegel, H.-P., Ng, R. T., & Sander, J. (2000). *LOF: Identifying density-based local outliers.* *Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data*, 93–104.  
+- Zhang, T., Ramakrishnan, R., & Livny, M. (1996). *BIRCH: An efficient data clustering method for very large databases.* *Proceedings of the 1996 ACM SIGMOD International Conference on Management of Data*, 103–114.  
+- Ng, A. Y., Jordan, M. I., & Weiss, Y. (2002). *On spectral clustering: Analysis and an algorithm.* *Advances in Neural Information Processing Systems (NeurIPS)*, 849–856.  
+- Liben-Nowell, D., & Kleinberg, J. (2007). *The link-prediction problem for social networks.* *Journal of the American Society for Information Science and Technology (JASIST)*, 58(7), 1019–1031.  
+- Kleinberg, J. M. (1999). *Authoritative sources in a hyperlinked environment.* *Journal of the ACM*, 46(5), 604–632. (HITS)  
+- Watts, D. J., & Strogatz, S. H. (1998). *Collective dynamics of ‘small-world’ networks.* *Nature*, 393, 440–442.  
+- Barabási, A.-L., & Albert, R. (1999). *Emergence of scaling in random networks.* *Science*, 286(5439), 509–512.  
+- Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N., Chklovskii, D., & Alon, U. (2002). *Network motifs: Simple building blocks of complex networks.* *Science*, 298(5594), 824–827.  
+- Perozzi, B., Al-Rfou, R., & Skiena, S. (2014). *DeepWalk: Online learning of social representations.* *Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)*, 701–710.  
 
 
 -----
