@@ -61,6 +61,12 @@ This organization can be subject to changes !.
 * [Fruits](https://cazabetremy.fr/Teaching/data_class/Datasets/fruits_all.zip)
 * [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv) (Synthetic)
 
+
+### Network 1
+
+* <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/GOT.graphml.zip">small network GOT</a>
+* <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/airportsAndCoord.graphml.zip">Airport Network</a>
+
 -----
 
 ## Article presentation
