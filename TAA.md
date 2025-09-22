@@ -14,13 +14,13 @@ L'UE est divisé en 3 grandes parties:
 | L 22/09   | 9h45-13h     | CM+TP          | Rémy       | ML rappels ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Supervised%20Learning.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_ML1.pdf)) |
 | L 29/09   | 9h45-13h     | CM+TP          | Rémy       | Bootstrap, evaluation |
 | L 17/11   | 9h45-13h     | CM+TP          | Rémy      | XGboost & Co |
-| L 24/11   | 9h45-13h   | CM+TP          | Louis     | deep - intro |
+| L 24/11   | 9h45-13h   | CM+TP(BioInfo)          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
-| V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - étique |
+| V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - avancé |
 | L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (amont: méthodes, apprentissage, etc.) |
 | J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash)|
-| L 19/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
-| J 22/01   | 9h45-13h     | CM+TP | Louis      | Projet  |
+| L 19/01   | 9h45-13h     | CM+Présentations | Louis      | CM éthique + Présentations  |
+| J 22/01   | 9h45-13h     | Présentations | Louis      | Présentations  |
 
 
 
