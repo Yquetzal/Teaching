@@ -12,7 +12,7 @@ L'UE est divisé en 3 grandes parties:
 | Jour/Date | Heure       | Type        | Enseignant | Contenu |
 |-----------|-------------|-------------|------------|------------|
 | L 22/09   | 9h45-13h     | CM+TP          | Rémy       | ML rappels ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Supervised%20Learning.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_ML1.pdf)) |
-| L 29/09   | 9h45-13h     | CM+TP          | Rémy       | Classification, Ensemble Learning, XGboost |
+| L 29/09   | 9h45-13h     | CM+TP          | Rémy       | Classification, Regularization, Ensemble Learning, XGboost |
 | L 17/11   | 9h45-13h     | CM+TP          | Rémy      | Imbalance, sampling|
 | L 24/11   | 9h45-13h   | CM+TP(BioInfo)          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
