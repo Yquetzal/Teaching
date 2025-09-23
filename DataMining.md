@@ -40,10 +40,10 @@ Les contenus seront mis à jour au fur et à mesure.
 * [Fruits](https://cazabetremy.fr/Teaching/data_class/Datasets/fruits_all.zip)
 * [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv) (Synthetic)
 
-### Dimensionality Reduction
+### Dimensionality Reduction, Frequent Patterns
 * [Movie User Ratings](https://cazabetremy.fr/Teaching/data_class/Datasets/ratings_clean_names.csv)
+  
 ### Network 1
-
 * <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/GOT.graphml.zip">small network GOT</a>
 * <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/airportsAndCoord.graphml.zip">Airport Network</a>
 
