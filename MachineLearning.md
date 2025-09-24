@@ -129,7 +129,7 @@ This organization can be subject to changes !.
 ## Exam
 
 Coefficients
-* CT - final exam: 50%
+* CT - final exam: 50% Remy's part, [Example1](https://cazabetremy.fr/Teaching/DISS/Exam2022.pdf), [Example2](https://cazabetremy.fr/Teaching/DISS/Exam2024.pdf)
 * Presentation: 10%
 * Project Timon: 20%
 * Project Bruno Yun: 20%
