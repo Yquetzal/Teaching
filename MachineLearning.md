@@ -31,8 +31,8 @@ This organization can be subject to changes !.
 | W 17 Sep   | 9h45-13h00     | CM+TP          | Rémy       | ML unsupervised + articles ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Clustering.pdf), [Notes], [TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_CLustering.pdf))|
 | W 24 Sep   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 1 ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Supervised%20Learning.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_ML1.pdf))|
 | W 24 Sep   | 14h-17h     | CM+TP          | Elia       | Network 1([Slides](https://cazabetremy.fr/Teaching/data_class/Graphs_centrality.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/TPs/graphsGephi.pdf)) |
-| W 01 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 2 |
-| W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 |
+| W 01 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | ML supervised 2 ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Supervised%20Learning%20-%202.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_ML2.pdf))|
+| W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 ([Slides](https://cazabetremy.fr/Teaching/data_class/Graphs_ML.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/TPs/graphsPython.pdf))|
 | W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | Articles presentation |
 | W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Articles presentation |
 | W 15 Oct   | 9h45-13h00     | CM          | Timon       | Intro deep 1 |
