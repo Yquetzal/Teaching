@@ -61,9 +61,9 @@ This organization can be subject to changes !.
 * [Fruits](https://cazabetremy.fr/Teaching/data_class/Datasets/fruits_all.zip)
 * [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv) (Synthetic)
 
-### Machine Learning 1
+### Machine Learning 1, 2
 
-* [cars_synth_clean.csv](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv)
+* [Car Dataset, CLEAN](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv)  (Synthetic)
 
 ### Network 1
 
