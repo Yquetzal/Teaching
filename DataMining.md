@@ -47,6 +47,9 @@ Les contenus seront mis à jour au fur et à mesure.
 * <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/GOT.graphml.zip">small network GOT</a>
 * <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/airportsAndCoord.graphml.zip">Airport Network</a>
 
+### Spatiotemporal
+* <a href="https://cazabetremy.fr/Teaching/data_class/Datasets/US_City_T.csv">US cities T</a>
+* <a href="https://cazabetremy.fr/Teaching/data_class/Datasets/US_City_Locations.csv">US cities location</a>
 -------
 ## Évaluation
 
