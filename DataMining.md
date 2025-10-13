@@ -24,7 +24,7 @@ Les contenus seront mis à jour au fur et à mesure.
 | Lundi 6 Octobre   | 8h00-13h00     | Projet+TP+CM          | Rémy, Chloe, Maeva        | Networks 2 ([Slides](https://cazabetremy.fr/Teaching/data_class/Graphs_ML.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/TPs/graphsPython.pdf)) |
 | Mardi 7 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy, Chloe, Maeva        | Frequent Patterns ([Slides](https://cazabetremy.fr/Teaching/DSIA/frequentPatterns.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_frequent.pdf)) |
 | Lundi 13 Octobre   | 8h00-13h00     | Projet+CM+TP          | Rémy, Chloe, Maeva        | Spatial and Temporal ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Spatiotemporal.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_spatialTemporal.pdf))  |
-| Mardi 14 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy, Chloe, Maeva        | Explainable ML |
+| Mardi 14 Octobre   | 8h00-13h00      | Projet+CM+TP          | Rémy, Chloe, Maeva        | Explainable AI ([Slides](https://cazabetremy.fr/Teaching/DSIA/2025/XAI.pdf),[TP](https://cazabetremy.fr/Teaching/DSIA/2025/TP_XAI.pdf)) |
 | Mardi 4 Novembre   | 9h45-11h45     | EXAMEN          | Rémy, Chloe, Maeva        | Voir détails ci-dessous |
 
 -----
