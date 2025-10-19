@@ -1,4 +1,4 @@
-# Internships proposed by Rémy Cazabet 
+# Internships proposed by Rémy Cazabet, Academic year 2025/2026
 ### Location
 Internships will take place at LIRIS Lab, Lyon 1 University, Lyon, France.
 
