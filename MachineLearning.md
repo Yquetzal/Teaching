@@ -71,8 +71,14 @@ This organization can be subject to changes !.
 * <a href="https://cazabetremy.fr/Teaching/data_class/2025/data/airportsAndCoord.graphml.zip">Airport Network</a>
 
 -----
+## Article presenataion: Deep Learning
+* Description of articles: https://docs.google.com/document/d/1ACqxt8I_WolDDLe5IP1A8uYgGQL0OozAMfurhMovkuQ/edit?usp=sharing
+* Article assignments: https://cazabetremy.fr/Teaching/DISS/2025/assign_groups.pdf
+* Article reference graph: https://cazabetremy.fr/Teaching/DISS/2025/graph.pdf
+* 
 
-## Article presentation
+
+## Article presentation : classic ML
 
 ### Notes on the article presentation
 
