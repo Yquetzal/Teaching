@@ -38,7 +38,7 @@ This organization can be subject to changes !.
 | W 15 Oct   | 9h45-13h00     | CM          | Timon       | Intro deep 1 |
 | W 22 Oct   | 9h45-13h00     | CM+TP          | Timon       | Intro deep 2  |
 | W 29 Oct   | --     | --         | --      | ... |
-| W 05 Nov   | 9h45-13h00     | TP          | Louis       | Intro deep TP |
+| W 05 Nov   | 9h45-13h00     | TP          | Louis       | Intro deep : [Lab](https://cazabetremy.fr/Teaching/DISS/2025/Lab_TAA-Intro_to_Deep_Learning.ipynb) - [Hyperparameter optimization](https://docs.google.com/spreadsheets/d/1HW0EZ44Lr4XbPkiEU8jcIAeyyTy5BdSuPU0LxmKL8Sw/edit?usp=sharing) |
 | W 12 Nov   | 9h45-13h00     | TP          | Louis       | Intro deep TP |
 | W 19 Nov   | 9h45-13h00     | CM+TP          | Bruno       | ML |
 | W 19 Nov   | 14h-17h      | CM+TP          | Bruno       | LLM |
