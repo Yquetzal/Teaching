@@ -41,7 +41,9 @@ L'UE est divisé en 3 grandes parties:
   
 ----
 # Examen
-L'évaluation se fait par une présentation d'article et un examen final écrit.
+L'évaluation se fait par une évaluation partielle (projet ou présentation d'article) et un examen final écrit.
+* évaluation partielle: 30%
+* Examen final: 70%
 
 
 ----
