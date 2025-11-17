@@ -15,8 +15,8 @@ L'UE est divisé en 3 grandes parties:
 | L 29/09   | 9h45-13h     | CM+TP          | Rémy       | Classification, Regularization, Ensemble Learning, XGboost ([Slides](https://cazabetremy.fr/Teaching/data_class/2025/slides/Supervised%20Learning%20-%202.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/2025/TP/TP_ML2.pdf)) |
 | L 17/11   | 8h00-11h15     | CM+TP          | Rémy      | Imbalance, sampling, Feature selection ([Slides](https://cazabetremy.fr/Teaching/TAA/featureselection.pdf),[TP](https://cazabetremy.fr/Teaching/TAA/TP3.pdf))|
 | L 24/11   | 9h45-13h   | CM+TP(BioInfo)          | Louis     | deep - intro |
-| L 05/01   | 9h45-13h     | CM+TP          |  Louis    | deep 2 |
-| V 09/01   | 9h45-13h     | CM+TP          | Louis      | deep - avancé |
+| L 05/01   | 9h45-13h     | CM+TP(BioInfo)          |  Louis    | deep 2 |
+| V 09/01   | 9h45-13h     | CM+TP(BioInfo)          | Louis      | deep - avancé |
 | L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (amont: méthodes, apprentissage, etc.) |
 | J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash)|
 | L 19/01   | 9h45-13h     | CM+Présentations | Louis      | CM éthique + Présentations  |
