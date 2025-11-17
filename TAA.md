@@ -25,6 +25,11 @@ L'UE est divisé en 3 grandes parties:
 
 
 ----
+# Article presentation: Deep Learning
+* Description des articles: https://docs.google.com/document/d/1ACqxt8I_WolDDLe5IP1A8uYgGQL0OozAMfurhMovkuQ/edit?usp=sharing
+* Graphe des Références entre Article : https://cazabetremy.fr/Teaching/DISS/2025/graph.pdf
+
+  
 # Données
 ### Machine Learning 1
 
