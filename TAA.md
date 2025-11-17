@@ -34,7 +34,7 @@ L'UE est divisé en 3 grandes parties:
 * [gapminder_data_graphs](https://cazabetremy.fr/Teaching/TAA/gapminder_data_graphs.csv)
 ----
 # Examen
-L'évaluation se fait par un projet et un examen final écrit.
+L'évaluation se fait par une présentation d'article et un examen final écrit.
 
 
 ----
