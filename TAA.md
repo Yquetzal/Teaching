@@ -30,6 +30,8 @@ L'UE est divisé en 3 grandes parties:
 
 * [cars_synth_clean.csv](https://cazabetremy.fr/Teaching/data_class/Datasets/cars_synth_clean.csv)
 
+### Machine Learning 3
+* [gapminder_data_graphs](https://cazabetremy.fr/Teaching/TAA/gapminder_data_graphs.csv)
 ----
 # Examen
 L'évaluation se fait par un projet et un examen final écrit.
