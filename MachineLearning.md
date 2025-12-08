@@ -35,15 +35,17 @@ This organization can be subject to changes !.
 | W 01 Oct   | 14h-17h      | CM+TP          | Elia       | Network 2 ([Slides](https://cazabetremy.fr/Teaching/data_class/Graphs_ML.pdf),[TP](https://cazabetremy.fr/Teaching/data_class/TPs/graphsPython.pdf))|
 | W 08 Oct   | 9h45-13h00     | CM+TP          | Rémy+Elia       | Articles presentation |
 | W 08 Oct   | 14h-17h      | CM+TP          | Elia       | Articles presentation |
-| W 15 Oct   | 9h45-13h00     | CM          | Timon       | [Intro deep 1](https://cazabetremy.fr/Teaching/DISS/2025/Deep-slides.pdf) |
+| W 15 Oct   | 9h45-13h00     | CM          | Timon       | CM: https://temporaldifference.com/slides_deep.pdf - 
+exercices: https://temporaldifference.com/exercises_deep.pdf - 
+mini tuto pytorch: https://temporaldifference.com/slides_torch.pdf |
 | W 22 Oct   | 9h45-13h00     | CM+TP          | Timon       | Intro deep 2  |
 | W 29 Oct   | --     | --         | --      | ... |
 | W 05 Nov   | 9h45-13h00     | TP          | Louis       | Intro deep : [Lab](https://cazabetremy.fr/Teaching/DISS/2025/Lab_TAA-Intro_to_Deep_Learning.ipynb) - [Hyperparameter optimization](https://docs.google.com/spreadsheets/d/1HW0EZ44Lr4XbPkiEU8jcIAeyyTy5BdSuPU0LxmKL8Sw/edit?usp=sharing) |
-| W 12 Nov   | 9h45-13h00     | TP          | Louis       | Intro deep TP |
-| W 19 Nov   | 9h45-13h00     | CM+TP          | Bruno       | ML |
-| W 19 Nov   | 14h-17h      | CM+TP          | Bruno       | LLM |
-| W 26 Nov   | 9h45-13h00     | CM+TP          | Bruno       | LLM |
-| W 26 Nov   | 14h-17h     | CM+TP          | Bruno       | LLM |
+| W 12 Nov   | 9h45-13h00     | TP          | Louis       | [Lab2](https://cazabetremy.fr/Teaching/TAA/lab2.pdf) |
+| W 19 Nov   | 9h45-13h00     | CM+TP          | Bruno       | [ML](https://bruno-yun.notion.site/INF2494M-Applying-Machine-Learning-in-Real-Life-e10f9c37004c4c09b72c6a47d7a95a68?source=copy_link) |
+| W 19 Nov   | 14h-17h      | CM+TP          | Bruno       | [LLM](https://bruno-yun.notion.site/INF2511M-Theory-and-Practical-Applications-of-Large-Language-Models-570124290ae1402ab94b567bfb9b7a08?source=copy_link) |
+| W 26 Nov   | 9h45-13h00     | CM+TP          | Bruno       | [LLM](https://bruno-yun.notion.site/INF2511M-Theory-and-Practical-Applications-of-Large-Language-Models-570124290ae1402ab94b567bfb9b7a08?source=copy_link) |
+| W 26 Nov   | 14h-17h     | CM+TP          | Bruno       | [LLM](https://bruno-yun.notion.site/INF2511M-Theory-and-Practical-Applications-of-Large-Language-Models-570124290ae1402ab94b567bfb9b7a08?source=copy_link) |
 | W 03 Dec   | 9h45-13h00     | CM+TP          | Louis       | DL Paper Presentations |
 | W 03 Dec   | 14h-17h     | CM+TP          | Louis       | DL Paper Presentations |
 | W 10 Dec   | 9h45-13h00     | CM+TP          | Louis       | Deep Learning advanced |
