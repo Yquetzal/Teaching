@@ -135,6 +135,7 @@ This organization can be subject to changes !.
 
 Coefficients
 * CT - final exam: 50% (all subjects)
+  * For this exam, all paper documents allowed (open book exam). 
   *  Past exams, Remy's part, [Example1](https://cazabetremy.fr/Teaching/DISS/Exam2022.pdf), [Example2](https://cazabetremy.fr/Teaching/DISS/Exam2024.pdf)
   
 * Presentation ML classic: 10%
