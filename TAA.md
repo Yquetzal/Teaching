@@ -17,8 +17,8 @@ L'UE est divisé en 3 grandes parties:
 | L 24/11   | 9h45-13h   | CM+TP(BioInfo)          | Louis     | deep - intro |
 | L 05/01   | 9h45-13h     | CM+TP(BioInfo)          |  Louis    | deep 2 |
 | V 09/01   | 9h45-13h     | CM+TP(BioInfo)          | Louis      | deep - avancé |
-| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (amont: méthodes, apprentissage, etc.) |
-| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash)|
+| L 12/01   | 9h45-13h     | CM+TP | Thomas     | MLops 1 (amont: méthodes, apprentissage, etc.) (https://gitlab.inria.fr/tguyet/mlops-course ) |
+| J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash) (https://gitlab.inria.fr/tguyet/mlops-course )|
 | L 19/01   | 9h45-13h     | CM+Présentations | Louis      | CM éthique + Présentations  |
 | J 22/01   | 9h45-13h     | Présentations | Louis      | Présentations  |
 
