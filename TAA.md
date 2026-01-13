@@ -21,6 +21,7 @@ L'UE est divisé en 3 grandes parties:
 | J 15/01   | 9h45-13h     | CM+TP | Thomas     | MLops 2 (aval: déploiement, mise en production, Dash) (https://gitlab.inria.fr/tguyet/mlops-course )|
 | L 19/01   | 9h45-13h     | CM+Présentations | Louis      | CM éthique + Présentations  |
 | J 22/01   | 9h45-13h     | Présentations | Louis      | Présentations  |
+| L 26/01 | 9h45-13h | EXAMEN | | Durée : 2 Heures|
 
 
 
